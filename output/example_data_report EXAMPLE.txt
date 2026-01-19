@@ -1,0 +1,35 @@
+Variable name: name
+Report on numbers:
+Count:	20
+Mean:	N/A
+Median:	N/A
+Mode:	Alice
+
+Variable name: age
+Report on numbers:
+Count:	19
+Mean:	30.9
+Median:	30.0
+Mode:	28.0
+
+Variable name: city
+Report on numbers:
+Count:	19
+Mean:	N/A
+Median:	N/A
+Mode:	London
+
+Variable name: score
+Report on numbers:
+Count:	18
+Mean:	78.7
+Median:	78.25
+Mode:	85.5
+
+Variable name: grade
+Report on numbers:
+Count:	20
+Mean:	N/A
+Median:	N/A
+Mode:	B
+
